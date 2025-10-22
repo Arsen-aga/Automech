@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui odit eaque magnam dolorem aspernatur voluptatibus perspiciatis optio quos eveniet impedit, a praesentium molestias omnis nam fugit exercitationem culpa non minus.
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
